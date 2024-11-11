@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { createContext, useState, useEffect, useContext } from "react";
 
 const AppContext = createContext();
