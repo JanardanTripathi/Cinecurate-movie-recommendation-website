@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Cinecurate-movie-recommendation-website/static/css/main.2a04b9d2.css",
-    "main.js": "/Cinecurate-movie-recommendation-website/static/js/main.97fdfb33.js",
+    "main.css": "/Cinecurate-movie-recommendation-website/static/css/main.de8323f3.css",
+    "main.js": "/Cinecurate-movie-recommendation-website/static/js/main.d80dc4e2.js",
     "index.html": "/Cinecurate-movie-recommendation-website/index.html",
-    "main.2a04b9d2.css.map": "/Cinecurate-movie-recommendation-website/static/css/main.2a04b9d2.css.map",
-    "main.97fdfb33.js.map": "/Cinecurate-movie-recommendation-website/static/js/main.97fdfb33.js.map"
+    "main.de8323f3.css.map": "/Cinecurate-movie-recommendation-website/static/css/main.de8323f3.css.map",
+    "main.d80dc4e2.js.map": "/Cinecurate-movie-recommendation-website/static/js/main.d80dc4e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a04b9d2.css",
-    "static/js/main.97fdfb33.js"
+    "static/css/main.de8323f3.css",
+    "static/js/main.d80dc4e2.js"
   ]
 }
